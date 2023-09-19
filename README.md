@@ -2,7 +2,7 @@
 
 
 
-I will upload two new repositories by September 20, 2023, after formatting and reviewing my work.
+I will upload two new repositories by September 23, 2023, after formatting and reviewing my work.
 
 I am a passionate learner with a diverse range of interests and skills. Recently, I completed a Master of Science in Business Analytics - Data Analytics. I am actively seeking an environment that fosters continuous learning and professional development, where I can further apply my current skills and expand my knowledge.
 
