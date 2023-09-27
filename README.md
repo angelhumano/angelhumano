@@ -30,9 +30,6 @@ My favorite foods are passion fruit, coconut water, and chocolate. Trilingual (S
 
 <details>
   <summary>Do not click this arrow</summary>
-  More projects coming soon: <br>
-  - A Data Warehousing and Tableau Project <br>
-  - A Google Analytics Capstone Project for Fitbit Data (in RStudio)
   Have a wonderful day :grin:
 </details>
 
