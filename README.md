@@ -1,9 +1,5 @@
 ## Welcome to my GitHub. 👋
 
-Reports(README) for the upcoming repository is currently under construction and is expected to be completed **by October 15, 2023:**
-
-- Predicting and determining the factors that lead to employee attrition. Take a look at the R Notebook [here.](https://github.com/angelhumano/data_mining_project/blob/main/PurrAnalytics_project_final_code_revised_Fall_2023.md)
-- A Google Analytics Capstone Project for Fitbit Data (in RStudio). Refer to R Notebook [here.](https://github.com/angelhumano/Incubator/blob/main/Bellabeat_case_study_draft1.md)
 
 I am a passionate learner with a diverse range of interests and skills. Recently, I completed a Master of Science in Business Analytics - Data Analytics. I am actively seeking an environment that fosters continuous learning and professional development, where I can further apply my current skills and expand my knowledge.
 
@@ -12,6 +8,12 @@ Some of my interests are data science, psychology, languages, economics, and sci
 In my free time, I enjoy exercising, hiking, reading books, listening to podcasts, using Duolingo, watching Crash Course, reading The Economist, investing, and traveling. 
 
 My favorite foods are passion fruit, coconut water, and chocolate. Trilingual (Spanish, English, and Portuguese).
+
+
+Reports(README) for the upcoming repository is currently under construction and is expected to be completed **by October 15, 2023:**
+
+- Predicting and determining the factors that lead to employee attrition. Take a look at the R Notebook [here.](https://github.com/angelhumano/data_mining_project/blob/main/PurrAnalytics_project_final_code_revised_Fall_2023.md)
+- A Google Analytics Capstone Project for Fitbit Data (in RStudio). Refer to R Notebook [here.](https://github.com/angelhumano/Incubator/blob/main/Bellabeat_case_study_draft1.md)
 
 
 ## Selected Academic Projects
