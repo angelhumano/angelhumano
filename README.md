@@ -5,7 +5,7 @@
 I will upload two new repositories by October 15, 2023, after formatting and reviewing my work.
 
 - Predicting and determining the factors that lead to employee attrition. Take a look at the R Notebook [here](https://github.com/angelhumano/data_mining_project/blob/main/PurrAnalytics_project_final_code_revised_Fall_2023.md)
-- A Google Analytics Capstone Project for Fitbit Data (in RStudio)
+- A Google Analytics Capstone Project for Fitbit Data (in RStudio). Refer to R Notebook [here](https://github.com/angelhumano/Incubator/blob/main/Bellabeat_case_study_draft1.md)
 
 I am a passionate learner with a diverse range of interests and skills. Recently, I completed a Master of Science in Business Analytics - Data Analytics. I am actively seeking an environment that fosters continuous learning and professional development, where I can further apply my current skills and expand my knowledge.
 
