@@ -11,12 +11,10 @@ My favorite foods are passion fruit, coconut water, and chocolate. Trilingual (S
 
 
 
-## Reports(README) for the upcoming repository is currently under construction**
+## Reports(README) for the upcoming repository is currently under construction:**
 
 - Predicting and determining the factors that lead to employee attrition. Take a look at the R Notebook [here.](https://github.com/angelhumano/data_mining_project/blob/main/PurrAnalytics_project_final_code_revised_Fall_2023.md)
 
-- 
-- A Google Analytics Capstone Project for Fitbit Data (in RStudio). Refer to R Notebook [here.](https://github.com/angelhumano/Incubator/blob/main/Bellabeat_case_study_draft1.md)
 
 
 ## Selected Academic Projects
