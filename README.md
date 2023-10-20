@@ -38,17 +38,6 @@ My favorite foods are passion fruit, coconut water, and chocolate. Trilingual (S
 
 
 
-
-
-| Project                                                  | Description                                                                                                                      | Tools                                                                                                   |
-|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [Embarking on a United Nations data journey for migration insights](https://github.com/angelhumano/data_visualization_class_project) | Data Visualization Class: Analyzed global migration drivers, with a particular emphasis on World Development Indicators, and extracted valuable insights while creating impactful visualizations. | Colab, Python, and Tableau              |
-| [Data Warehousing and Analytics](https://github.com/angelhumano/data_warehousing_analytics) | Performed ETL and data prep for a cloud-based BI data warehouse to uncover insights about vehicle collision in NYC. |Lucidchart, Python, SQL, Colab, Google BigQuery, and Tableau|                                   |
-| [Analyzing millions of NYC fire incident dispatch data](https://github.com/angelhumano/big_data_technologies_class_project1/tree/main) | Big Data Technologies Class: Leveraged Big Data tools to handle a dataset exceeding a single machine's capacity to transform raw data into valuable insights.                     | EC2 (Elastic Compute Cloud), Docker, Python, Terminal, Socrata Open Data API, OpenSearch (NoSQL database), and AWS Kibana |
-
-
-
-
 <details>
   <summary>Do not click this arrow</summary>
   Have a wonderful day :grin:
