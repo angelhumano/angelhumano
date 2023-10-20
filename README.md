@@ -11,13 +11,33 @@ My favorite foods are passion fruit, coconut water, and chocolate. Trilingual (S
 
 
 
-## Reports(README) for the upcoming repository is currently under construction and is expected to be completed **by October 20, 2023:**
+## Reports(README) for the upcoming repository is currently under construction**
 
 - Predicting and determining the factors that lead to employee attrition. Take a look at the R Notebook [here.](https://github.com/angelhumano/data_mining_project/blob/main/PurrAnalytics_project_final_code_revised_Fall_2023.md)
+
+- 
 - A Google Analytics Capstone Project for Fitbit Data (in RStudio). Refer to R Notebook [here.](https://github.com/angelhumano/Incubator/blob/main/Bellabeat_case_study_draft1.md)
 
 
 ## Selected Academic Projects
+
+
+| Project                                                  | Description                                                                                                                      | Tools                                                                                                   |
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [Google Analytics Capstone Project for Fitbit Data (in RStudio)](https://github.com/angelhumano/Incubator/blob/main/Bellabeat_case_study_draft1.md) | An analysis project focused on Fitbit data as part of the Google Analytics Capstone, performed in RStudio. | R, RStudio, R Notebook |
+| [Embarking on a United Nations data journey for migration insights](https://github.com/angelhumano/data_visualization_class_project) | Data Visualization Class: Analyzed global migration drivers, with a particular emphasis on World Development Indicators, and extracted valuable insights while creating impactful visualizations. | Colab, Python, and Tableau              |
+| [Data Warehousing and Analytics](https://github.com/angelhumano/data_warehousing_analytics) | Performed ETL and data prep for a cloud-based BI data warehouse to uncover insights about vehicle collision in NYC. | Lucidchart, Python, SQL, Colab, Google BigQuery, and Tableau|
+| [Analyzing millions of NYC fire incident dispatch data](https://github.com/angelhumano/big_data_technologies_class_project1/tree/main) | Big Data Technologies Class: Leveraged Big Data tools to handle a dataset exceeding a single machine's capacity to transform raw data into valuable insights.                     | EC2, Docker, Python, Terminal, Socrata Open Data API, OpenSearch, AWS Kibana|
+
+
+
+
+
+
+
+
+
+
 
 
 | Project                                                  | Description                                                                                                                      | Tools                                                                                                   |
