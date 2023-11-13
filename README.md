@@ -20,8 +20,8 @@ in tools and platforms including spreadsheets, SQL, Tableau, and R.
 They know how to prepare, process, analyze, and share data for
 thoughtful action.
 
-
-- [Foundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/certificate/2GZLGB5Q368K)
+The first course out of seven in
+- [Foundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/certificate/2GZLGB5Q368K): The first course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none). Learned about the fields of digital marketing and e-commerce and the skills needed for associate-level roles.
 
 
 - [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/LCKEN698JTKN)
