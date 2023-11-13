@@ -11,8 +11,7 @@ Some of my interests are data science, psychology, languages, economics, and sci
 | [Google Analytics Capstone Project for Fitbit Data (in RStudio)](https://github.com/angelhumano/google_analytics_cert_capstone) | Analyzed smart fitness device data for Bellabeat App's marketing strategy. | R, RStudio, R Notebook, and R Markdown | October 2023|
 
 
-## Recent rectifications
-
+## Recent certifications
 - [Google Data Analytics Specialization (Oct. 2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/E8PXXFT6YDGW)
 
 ## Selected academic projects
