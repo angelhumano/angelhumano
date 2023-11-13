@@ -27,7 +27,7 @@ Current Progress:
 ![e-commerce and digital marketing cert progress](images/e_commerce_digital_marketing_cert.png)
 
 - [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/LCKEN698JTKN): The first course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none). Learned about project management skills, core concepts, methodologies, and project management roles.
-- 
+  
 Current Progress:
 ![program management cert progress](images/program_management_cert.png)
   
