@@ -43,15 +43,6 @@ thoughtful action.
 | [Analyzing millions of NYC fire incident dispatch data](https://github.com/angelhumano/big_data_technologies_class_project1) | Big Data Technologies Class: Leveraged Big Data tools to handle a dataset exceeding a single machine's capacity to transform raw data into valuable insights.                     | EC2, Docker, Python, Terminal, Socrata Open Data API, OpenSearch, AWS Kibana|
 | [Predicting and determining the factors that lead to employee attrition](https://github.com/angelhumano/data_mining_project) | Data Mining Class: Employed classification models (Logistic Regression, KNN, Decision Trees, Bagging, and Random Forest) to predict attrition and identify its key drivers. |R, RStudio, R Notebook, and R Markdown. |
 
-#### The README for an upcoming repository is currently under construction:**
-
-- Predicting and determining the factors that lead to employee attrition. Take a look at the R Notebook [here.](https://github.com/angelhumano/data_mining_project/blob/main/PurrAnalytics_project_final_code_revised_Fall_2023.md)
-
-
-
-## Certifications
-
-
 
 
 
