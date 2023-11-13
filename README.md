@@ -21,7 +21,7 @@ They know how to prepare, process, analyze, and share data for
 thoughtful action.
 
 
-- [Foundations of Digital Marketing and E-commerceFoundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/certificate/2GZLGB5Q368K)
+- [Foundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/certificate/2GZLGB5Q368K)
 
 
 - [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/LCKEN698JTKN)
