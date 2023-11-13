@@ -1,17 +1,14 @@
 ## Welcome to my GitHub. 👋
 
-
 I am a passionate learner with a diverse range of interests and skills. Recently, I completed a Master of Science in Business Analytics - Data Analytics. I am actively seeking an environment that fosters continuous learning and professional development, where I can further apply my current skills and expand my knowledge.
 
 Some of my interests are data science, psychology, languages, economics, and science. In my free time, I enjoy exercising, hiking, reading books, listening to podcasts, using Duolingo, watching Crash Course, reading The Economist, investing, and traveling. My favorite foods are passion fruit, coconut water, and chocolate. Trilingual (Spanish, English, and Portuguese).
 
 ## Recent projects
 
-| Project                                                  | Description                                                                                                                      | Tools                                                                                                   |
-|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [Google Analytics Capstone Project for Fitbit Data (in RStudio)](https://github.com/angelhumano/google_analytics_cert_capstone) | Analyzed smart fitness device data for Bellabeat App's marketing strategy. | R, RStudio, R Notebook, and R Markdown |
-
-
+| Project                                                  | Description                                                                                                                      | Tools                                                                                                   | Date       |
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------|
+| [Google Analytics Capstone Project for Fitbit Data (in RStudio)](https://github.com/angelhumano/google_analytics_cert_capstone) | Analyzed smart fitness device data for Bellabeat App's marketing strategy. | R, RStudio, R Notebook, and R Markdown | October 2023|
 
 
 ## Selected academic projects
@@ -29,7 +26,7 @@ Some of my interests are data science, psychology, languages, economics, and sci
 
 
 
-
+## Certifications
 
 
 
