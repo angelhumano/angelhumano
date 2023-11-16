@@ -20,6 +20,8 @@ in tools and platforms including spreadsheets, SQL, Tableau, and R.
 They know how to prepare, process, analyze, and share data for
 thoughtful action.
 
+
+
 - [Preparing Data for Analysis with Microsoft Excel](https://www.coursera.org/programs/online-learning-from-your-dol-new-york-city-6jrvh/learn/preparing-data-for-analysis-with-microsoft-excel?authProvider=nyslabor): Prepare Excel data for analysis in Power BI using functions. The first course out of eight in the [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/programs/online-learning-from-your-dol-new-york-city-6jrvh/professional-certificates/microsoft-power-bi-data-analyst).
   
   Current progress:
