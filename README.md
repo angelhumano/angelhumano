@@ -10,6 +10,17 @@ Some of my interests are data science, psychology, languages, economics, and sci
 |----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------|
 | [Google Analytics Capstone Project for Fitbit Data (in RStudio)](https://github.com/angelhumano/google_analytics_cert_capstone) | Analyzed smart fitness device data for Bellabeat App's marketing strategy. | R, RStudio, R Notebook, and R Markdown | October 2023|
 
+## Selected academic projects
+
+| Project                                                  | Description                                                                                                                      | Tools                                                                                                   |
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [Embarking on a United Nations data journey for migration insights](https://github.com/angelhumano/data_visualization_class_project) | Data Visualization Class: Analyzed global migration drivers, with a particular emphasis on World Development Indicators, and extracted valuable insights while creating impactful visualizations. | Colab, Python, and Tableau              |
+| [Data Warehousing and Analytics](https://github.com/angelhumano/data_warehousing_analytics) | Performed ETL and data prep for a cloud-based BI data warehouse to uncover insights about vehicle collisions in NYC. | Lucidchart, Python, SQL, Colab, Google BigQuery, and Tableau|
+| [Analyzing millions of NYC fire incident dispatch data](https://github.com/angelhumano/big_data_technologies_class_project1) | Big Data Technologies Class: Leveraged Big Data tools to handle a dataset exceeding a single machine's capacity to transform raw data into valuable insights.                     | EC2, Docker, Python, Terminal, Socrata Open Data API, OpenSearch, AWS Kibana|
+| [Predicting and determining the factors that lead to employee attrition](https://github.com/angelhumano/data_mining_project) | Data Mining Class: Employed classification models (Logistic Regression, KNN, Decision Trees, Bagging, and Random Forest) to predict attrition and identify its key drivers. |R, RStudio, R Notebook, and R Markdown. |
+
+
+
 
 ## Recent certifications
 - [Google Data Analytics Specialization (Oct. 2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/E8PXXFT6YDGW): Those who earn the Google Data Analytics Professional Certificate
@@ -36,16 +47,6 @@ thoughtful action.
 ![program management cert progress](images/program_management_cert.png)
  <br>
  
-## Selected academic projects
-
-
-| Project                                                  | Description                                                                                                                      | Tools                                                                                                   |
-|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [Embarking on a United Nations data journey for migration insights](https://github.com/angelhumano/data_visualization_class_project) | Data Visualization Class: Analyzed global migration drivers, with a particular emphasis on World Development Indicators, and extracted valuable insights while creating impactful visualizations. | Colab, Python, and Tableau              |
-| [Data Warehousing and Analytics](https://github.com/angelhumano/data_warehousing_analytics) | Performed ETL and data prep for a cloud-based BI data warehouse to uncover insights about vehicle collisions in NYC. | Lucidchart, Python, SQL, Colab, Google BigQuery, and Tableau|
-| [Analyzing millions of NYC fire incident dispatch data](https://github.com/angelhumano/big_data_technologies_class_project1) | Big Data Technologies Class: Leveraged Big Data tools to handle a dataset exceeding a single machine's capacity to transform raw data into valuable insights.                     | EC2, Docker, Python, Terminal, Socrata Open Data API, OpenSearch, AWS Kibana|
-| [Predicting and determining the factors that lead to employee attrition](https://github.com/angelhumano/data_mining_project) | Data Mining Class: Employed classification models (Logistic Regression, KNN, Decision Trees, Bagging, and Random Forest) to predict attrition and identify its key drivers. |R, RStudio, R Notebook, and R Markdown. |
-
 
 
 
