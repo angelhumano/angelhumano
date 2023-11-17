@@ -6,8 +6,6 @@ Some of my interests are data science, psychology, languages, economics, and sci
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhumano&layout=compact&langs_count=6)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhumano&hide_progress=true)
-
 
 ## Recent projects
 
