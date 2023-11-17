@@ -53,7 +53,7 @@ thoughtful action.
 
 ## References
 
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Dynamically generated stats for your github readmes
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Dynamically generated stats for your github readmes by Anurag Hazra.
 
 
 <details>
