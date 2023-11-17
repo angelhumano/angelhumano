@@ -34,7 +34,7 @@ They know how to prepare, process, analyze, and share data for
 thoughtful action.
 <br>
 
-- [Preparing Data for Analysis with Microsoft Excel (Nov. 2023)](https://www.coursera.org/programs/online-learning-from-your-dol-new-york-city-6jrvh/learn/preparing-data-for-analysis-with-microsoft-excel?authProvider=nyslabor): Prepared Excel data for analysis in Power BI using functions. The first course out of eight in the [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/programs/online-learning-from-your-dol-new-york-city-6jrvh/professional-certificates/microsoft-power-bi-data-analyst).
+- [Preparing Data for Analysis with Microsoft Excel (Nov. 2023)](https://www.coursera.org/account/accomplishments/certificate/PL97AFNJG8XZ): Prepared Excel data for analysis in Power BI using functions. The first course out of eight in the [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/programs/online-learning-from-your-dol-new-york-city-6jrvh/professional-certificates/microsoft-power-bi-data-analyst).
 
  ![Power_BI_progress](images/power_bi_cert.png)
   <br>
