@@ -51,6 +51,10 @@ thoughtful action.
  
 
 
+## References
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Dynamically generated stats for your github readmes
+
 
 <details>
   <summary>Do not click this arrow</summary>
