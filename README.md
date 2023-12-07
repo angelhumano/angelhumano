@@ -4,11 +4,26 @@ I am a passionate learner with a diverse range of interests and skills. Recently
 
 Some of my interests are data science, psychology, languages, economics, and science. In my free time, I enjoy exercising, hiking, reading books, listening to podcasts, using Duolingo, watching Crash Course, reading The Economist, investing, and traveling. My favorite foods are passion fruit, coconut water, and chocolate. Trilingual (Spanish, English, and Portuguese).
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhumano&size_weight=0.5&count_weight=0.5&compact&langs&hide=Dockerfile)
+
+
 ## Recent projects
 
 | Project                                                  | Description                                                                                                                      | Tools                                                                                                   | Date       |
 |----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------|
 | [Google Analytics Capstone Project for Fitbit Data (in RStudio)](https://github.com/angelhumano/google_analytics_cert_capstone) | Analyzed smart fitness device data for Bellabeat App's marketing strategy. | R, RStudio, R Notebook, and R Markdown | October 2023|
+
+## Selected academic projects
+
+| Project                                                  | Description                                                                                                                      | Tools                                                                                                   |
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| [Embarking on a United Nations data journey for migration insights](https://github.com/angelhumano/data_visualization_class_project) | Data Visualization Class: Analyzed global migration drivers, with a particular emphasis on World Development Indicators, and extracted valuable insights while creating impactful visualizations. | Colab, Python, and Tableau              |
+| [Data Warehousing and Analytics](https://github.com/angelhumano/data_warehousing_analytics) | Performed ETL and data prep for a cloud-based BI data warehouse to uncover insights about vehicle collisions in NYC. | Lucidchart, Python, SQL, Colab, Google BigQuery, and Tableau|
+| [Analyzing millions of NYC fire incident dispatch data](https://github.com/angelhumano/big_data_technologies_class_project1) | Big Data Technologies Class: Leveraged Big Data tools to handle a dataset exceeding a single machine's capacity to transform raw data into valuable insights.                     | EC2, Docker, Python, Terminal, Socrata Open Data API, OpenSearch, AWS Kibana|
+| [Predicting and determining the factors that lead to employee attrition](https://github.com/angelhumano/data_mining_project) | Data Mining Class: Employed classification models (Logistic Regression, KNN, Decision Trees, Bagging, and Random Forest) to predict attrition and identify its key drivers. |R, RStudio, R Notebook, and R Markdown |
+
+
 
 
 ## Recent certifications
@@ -19,31 +34,28 @@ them for introductory-level roles in Data Analytics. They are competent
 in tools and platforms including spreadsheets, SQL, Tableau, and R.
 They know how to prepare, process, analyze, and share data for
 thoughtful action.
+<br>
 
+- [Preparing Data for Analysis with Microsoft Excel (Nov. 2023)](https://www.coursera.org/account/accomplishments/certificate/PL97AFNJG8XZ): Prepared Excel data for analysis in Power BI using functions. The first course out of eight in the [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/enroll/microsoft-power-bi-data-analyst/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_microsoft-power-bi-data-analyst_microsoft_FTCOF_professional-certificates_country-US-country-CA&campaignid=20492962295&adgroupid=156381030121&device=c&keyword=microsoft%20power%20bi%20data%20analyst%20professional%20certificate&matchtype=b&network=g&devicemodel=&adposition=&creativeid=671291559808&hide_mobile_promo&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMpswJSoVaMAluyKUremmUtD63_uYCHdgGhhUDyS8J_cSiTP1HQA6DAaAozPEALw_wcB).
 
-- [Foundations of Digital Marketing and E-commerce](https://www.coursera.org/account/accomplishments/certificate/2GZLGB5Q368K): Learned about the fields of digital marketing and e-commerce and the skills needed for associate-level roles. The first course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
+ ![Power_BI_progress](images/power_bi_cert.png)
+  <br>
   
-  Current progress:
+- [Foundations of Digital Marketing and E-commerce (Oct. 2023)](https://www.coursera.org/account/accomplishments/certificate/2GZLGB5Q368K): Learned about the fields of digital marketing and e-commerce and the skills needed for associate-level roles. The first course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
   
 ![e-commerce and digital marketing cert progress](images/e_commerce_digital_marketing_cert.png)
+ <br>
 
-- [Foundations of Project Management](https://www.coursera.org/account/accomplishments/certificate/LCKEN698JTKN): Learned about project management skills, core concepts, methodologies, and project management roles. The first course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
+- [Foundations of Project Management (Oct. 2023)](https://www.coursera.org/account/accomplishments/certificate/LCKEN698JTKN): Learned about project management skills, core concepts, methodologies, and project management roles. The first course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
 
-   Current progress:
-  
 ![program management cert progress](images/program_management_cert.png)
-  
-## Selected academic projects
+ <br>
+ 
 
 
-| Project                                                  | Description                                                                                                                      | Tools                                                                                                   |
-|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| [Embarking on a United Nations data journey for migration insights](https://github.com/angelhumano/data_visualization_class_project) | Data Visualization Class: Analyzed global migration drivers, with a particular emphasis on World Development Indicators, and extracted valuable insights while creating impactful visualizations. | Colab, Python, and Tableau              |
-| [Data Warehousing and Analytics](https://github.com/angelhumano/data_warehousing_analytics) | Performed ETL and data prep for a cloud-based BI data warehouse to uncover insights about vehicle collisions in NYC. | Lucidchart, Python, SQL, Colab, Google BigQuery, and Tableau|
-| [Analyzing millions of NYC fire incident dispatch data](https://github.com/angelhumano/big_data_technologies_class_project1) | Big Data Technologies Class: Leveraged Big Data tools to handle a dataset exceeding a single machine's capacity to transform raw data into valuable insights.                     | EC2, Docker, Python, Terminal, Socrata Open Data API, OpenSearch, AWS Kibana|
-| [Predicting and determining the factors that lead to employee attrition](https://github.com/angelhumano/data_mining_project) | Data Mining Class: Employed classification models (Logistic Regression, KNN, Decision Trees, Bagging, and Random Forest) to predict attrition and identify its key drivers. |R, RStudio, R Notebook, and R Markdown. |
+## References
 
-
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats): Dynamically generated stats for your github readmes by Anurag Hazra.
 
 
 <details>
