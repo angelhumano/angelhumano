@@ -40,10 +40,13 @@ thoughtful action.
 
  ![Power_BI_progress](images/power_bi_cert.png)
   <br>
+
+
   
-- [Foundations of Digital Marketing and E-commerce (Oct. 2023)](https://www.coursera.org/account/accomplishments/certificate/2GZLGB5Q368K): Learned about the fields of digital marketing and e-commerce and the skills needed for associate-level roles. The first course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
   
-![e-commerce and digital marketing cert progress](images/e_commerce_digital_marketing_cert.png)
+- [Attract and Engage Customers with Digital Marketing (Dec. 2023)](https://www.coursera.org/account/accomplishments/certificate/M554F5YQW7YA): Learned how to use search engine optimization (SEO), search engine marketing (SEM), and display advertising to attract and engage customers. The second course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
+  
+![e-commerce and digital marketing cert progress](images/images/e_commerce_digital_marketing_cert_progress.png)
  <br>
 
 - [Foundations of Project Management (Oct. 2023)](https://www.coursera.org/account/accomplishments/certificate/LCKEN698JTKN): Learned about project management skills, core concepts, methodologies, and project management roles. The first course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
