@@ -71,6 +71,8 @@ thoughtful action.
   “You can develop skills and experience, but it is hard to develop character.”
 
   “If I have seen further it is by standing on the shoulders of Giants.” Isaac Newton
+
+  “In the fixed mindset, everything is about the outcome. If you fail—or if you’re not the best—it’s all been wasted. The growth mindset allows people to value what they’re doing regardless of the outcome . They’re tackling problems, charting new courses, working on important issues. Maybe they haven’t found the cure for cancer, but the search was deeply meaningful.” Carol S. Dweck, Mindset: The New Psychology of Success
   
   Have a wonderful day :grin:
 </details>
