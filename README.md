@@ -65,6 +65,13 @@ thoughtful action.
 
 <details>
   <summary>Do not click this arrow</summary>
+  
+  “Education is the kindling of a flame, not the filling of a vessel.” Socrates
+  
+  “You can develop skills and experience, but it is hard to develop character.”
+
+  “If I have seen further it is by standing on the shoulders of Giants.” Isaac Newton
+  
   Have a wonderful day :grin:
 </details>
 
