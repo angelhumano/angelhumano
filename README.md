@@ -46,12 +46,12 @@ thoughtful action.
 
 
   
-- [From Likes to Leads: Interact with Customers Online (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/Q42ZEB6EC7YM): Learned how to create marketing content and ads on social media platforms and evaluate their effectiveness using social media analytics data.. The fourth course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
+- [From Likes to Leads: Interact with Customers Online (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/Q42ZEB6EC7YM): Learned how to create marketing content and ads on social media platforms and evaluate their effectiveness using social media analytics data. The fourth course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
   
 ![e-commerce and digital marketing cert](images/e_commerce_digital_marketing_cert.png)
  <br>
 
-- [Foundations of Project Management (Oct. 2023)](https://www.coursera.org/account/accomplishments/certificate/LCKEN698JTKN): Learned about project management skills, core concepts, methodologies, and project management roles. The first course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
+- [Foundations of Project Management (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/7VLQZGDJAL7R): Learned about project management skills, core concepts, methodologies, and project management roles. The second course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
 
 ![program management cert progress](images/program_management_cert.png)
  <br>
