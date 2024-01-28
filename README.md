@@ -51,7 +51,7 @@ thoughtful action.
 ![e-commerce and digital marketing cert](images/e_commerce_digital_marketing_cert.png)
  <br>
 
-- [Project Initiation: Starting a Successful Project (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/7VLQZGDJAL7R): earned all the steps for kicking off a project, including identifying project scope, goals, and deliverables, identifying stakeholders, and scoping project tools and resources. The second course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
+- [Project Initiation: Starting a Successful Project (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/7VLQZGDJAL7R): Learned all the steps for kicking off a project, including identifying project scope, goals, and deliverables, identifying stakeholders, and scoping project tools and resources. The second course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
 
 ![program management cert progress](images/program_management_cert.png)
  <br>
