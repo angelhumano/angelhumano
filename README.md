@@ -38,20 +38,20 @@ thoughtful action.
 
 ## Certifications in Progress
 
-- [Harnessing the Power of Data with Power BI (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/ZBWVAZ8BW99T): Introduced to data-driven decision-making and foundational skills in data transformation and visualization using Microsoft Power BI. The second course out of eight in the [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/enroll/microsoft-power-bi-data-analyst/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_microsoft-power-bi-data-analyst_microsoft_FTCOF_professional-certificates_country-US-country-CA&campaignid=20492962295&adgroupid=156381030121&device=c&keyword=microsoft%20power%20bi%20data%20analyst%20professional%20certificate&matchtype=b&network=g&devicemodel=&adposition=&creativeid=671291559808&hide_mobile_promo&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMpswJSoVaMAluyKUremmUtD63_uYCHdgGhhUDyS8J_cSiTP1HQA6DAaAozPEALw_wcB).
+- [Extract, Transform and Load Data in Power BI (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/H32SJZYXE3KP): Explored Extract, Transform, Load (ETL) processes, collected data from various sources, utilized Power Query for preparation, and analyzed data integrity in Power BI. The third course out of eight in the [Microsoft Power BI Data Analyst Professional Certificate](https://www.coursera.org/enroll/microsoft-power-bi-data-analyst/paidmedia?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_microsoft-power-bi-data-analyst_microsoft_FTCOF_professional-certificates_country-US-country-CA&campaignid=20492962295&adgroupid=156381030121&device=c&keyword=microsoft%20power%20bi%20data%20analyst%20professional%20certificate&matchtype=b&network=g&devicemodel=&adposition=&creativeid=671291559808&hide_mobile_promo&gclid=Cj0KCQiApOyqBhDlARIsAGfnyMpswJSoVaMAluyKUremmUtD63_uYCHdgGhhUDyS8J_cSiTP1HQA6DAaAozPEALw_wcB).
 
   ![Power_BI_progress](images/power_bi_cert.png)
   <br>
 
 
+
   
+- [Think Outside the Inbox: Email Marketing (Feb. 2024)](https://www.coursera.org/account/accomplishments/certificate/Z888NBSARZKR): Learned how to execute email campaigns, use mailing lists, and automate customer communication and workflows. The fourth course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
   
-- [Attract and Engage Customers with Digital Marketing (Dec. 2023)](https://www.coursera.org/account/accomplishments/certificate/M554F5YQW7YA): Learned how to use search engine optimization (SEO), search engine marketing (SEM), and display advertising to attract and engage customers. The second course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
-  
-![e-commerce and digital marketing cert](images/e_commerce_digital_marketing_cert_progress.png)
+![e-commerce and digital marketing cert](images/e_commerce_digital_marketing_cert.png)
  <br>
 
-- [Foundations of Project Management (Oct. 2023)](https://www.coursera.org/account/accomplishments/certificate/LCKEN698JTKN): Learned about project management skills, core concepts, methodologies, and project management roles. The first course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
+- [Project Initiation: Starting a Successful Project (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/7VLQZGDJAL7R): Learned all the steps for kicking off a project, including identifying project scope, goals, and deliverables, identifying stakeholders, and scoping project tools and resources. The second course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
 
 ![program management cert progress](images/program_management_cert.png)
  <br>
