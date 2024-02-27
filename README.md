@@ -27,7 +27,7 @@ Some of my interests are data science, psychology, languages, economics, and sci
 
 
 ## Recent certifications
-- [Google Digital Marketing & E-commerce ( Feb. 2024)](https://coursera.org/share/dfc7b743993f52c51965082a001395b6): Those who earn the Google Digital Marketing & E-commerce Professional Certificate have completed seven-courses, developed by
+- [Google Digital Marketing & E-commerce ( Feb. 2024)](https://coursera.org/share/dfc7b743993f52c51965082a001395b6): Those who earn the Google Digital Marketing & E-commerce Professional Certificate have completed seven courses, developed by
 Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in the field. They are competent in foundational skills in digital marketing and e-commerce.
 <br>
 
