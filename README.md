@@ -53,12 +53,6 @@ thoughtful action.
 
 
 
-  
-- [Think Outside the Inbox: Email Marketing (Feb. 2024)](https://www.coursera.org/account/accomplishments/certificate/Z888NBSARZKR): Learned how to execute email campaigns, use mailing lists, and automate customer communication and workflows. The fourth course out of seven in the [Digital Marketing & E-commerce Certificate](https://grow.google/certificates/digital-marketing-ecommerce/?utm_source=gDigital&utm_medium=paidha-eng&utm_campaign=sem-sk-dm-exa-glp-br&utm_term=foundations%20of%20digital%20marketing%20and%20e%20commerce&gad=1&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buOIigN25AQThbNLImEUS8APpcD_t_NwCMD-p8RthWW1LQFR5XVts60aAkMcEALw_wcB#?modal_active=none).
-  
-![e-commerce and digital marketing cert](images/e_commerce_digital_marketing_cert.png)
- <br>
-
 - [Project Initiation: Starting a Successful Project (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/7VLQZGDJAL7R): Learned all the steps for kicking off a project, including identifying project scope, goals, and deliverables, identifying stakeholders, and scoping project tools and resources. The second course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
 
 ![program management cert progress](images/program_management_cert.png)
