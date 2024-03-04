@@ -30,11 +30,25 @@ Some of my interests are data science, psychology, languages, economics, and sci
 - [Google Digital Marketing & E-commerce ( Feb. 2024)](https://coursera.org/share/dfc7b743993f52c51965082a001395b6): Those who earn the Google Digital Marketing & E-commerce Professional Certificate have completed seven courses, developed by
 Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in the field. They are competent in foundational skills in digital marketing and e-commerce.
 
-   **Skills**:  Display Advertising | Marketing | Search Engine Optimization | 
-  E-Commerce | Marketing Analytics | Social Media Marketing | 
-  Email Marketing | Search Engine Marketing 
- 
-
+   **Skills**:
+  <table style="width:100%">
+    <tr>
+      <td style="text-align:center">Display Advertising</td>
+      <td style="text-align:center">Marketing Analytics</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Marketing</td>
+      <td style="text-align:center">Social Media Marketing</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Search Engine Optimization</td>
+      <td style="text-align:center">Email Marketing</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">E-Commerce</td>
+      <td style="text-align:center">Search Engine Marketing</td>
+    </tr>
+  </table>
 
 
 
@@ -43,10 +57,29 @@ Google, that include hands-on, practice-based assessments and are designed to pr
 - [Google Data Analytics Specialization (Oct. 2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/E8PXXFT6YDGW): Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.
 
 
-  **Skills**:  Data Aggregation | Data Analytics | Data Calculations |
-  Data Cleaning | Data Ethics | Data Visualization |
-  Presentations | Problem Solving | R |
-  Spreadsheets | SQL | Structured Thinking
+  **Skills**:
+    <table style="width:100%">
+    <tr>
+      <td style="text-align:center">Data Aggregation</td>
+      <td style="text-align:center">Data Analytics</td>
+      <td style="text-align:center">Data Calculations</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Data Cleaning</td>
+      <td style="text-align:center">Data Ethics</td>
+      <td style="text-align:center">Data Visualization</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Presentations</td>
+      <td style="text-align:center">Problem Solving</td>
+      <td style="text-align:center">Structured Thinking</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">Spreadsheets</td>
+      <td style="text-align:center">SQL</td>
+      <td style="text-align:center">R</td>
+    </tr>
+  </table>
 
 
 
