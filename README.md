@@ -31,7 +31,7 @@ Some of my interests are data science, psychology, languages, economics, and sci
 Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in the field. They are competent in foundational skills in digital marketing and e-commerce.
 
   ![Google digital marketing certificate badge](images/marketing_cert.png)
-  <br>
+
 
    **Skills**:
   <table style="width:100%">
@@ -56,7 +56,7 @@ Google, that include hands-on, practice-based assessments and are designed to pr
 
 - [Google Data Analytics Specialization (Oct. 2023)](https://www.coursera.org/account/accomplishments/specialization/certificate/E8PXXFT6YDGW): Those who earn the Google Data Analytics Professional Certificate have completed eight courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for introductory-level roles in Data Analytics. They are competent in tools and platforms including spreadsheets, SQL, Tableau, and R. They know how to prepare, process, analyze, and share data for thoughtful action.
 
-![Google data analytics certificate badge](images/data_analytics_cert.png)
+  ![Google data analytics certificate badge](images/data_analytics_cert.png)
 
   **Skills**:
     <table style="width:100%">
