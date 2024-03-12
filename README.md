@@ -92,7 +92,7 @@ Some of my interests are data science, psychology, languages, economics, and sci
 
 
 
-- [Project Initiation: Starting a Successful Project (Jan. 2024)](https://www.coursera.org/account/accomplishments/certificate/7VLQZGDJAL7R): Learned all the steps for kicking off a project, including identifying project scope, goals, and deliverables, identifying stakeholders, and scoping project tools and resources. The second course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
+- [Project Execution: Running the Project (Feb. 2024)](https://www.coursera.org/account/accomplishments/certificate/7VLQZGDJAL7R): I learned how to put a project plan into action, including tracking and measuring project progress, implementing continuous improvement and quality management techniques, utilizing and analyzing data to inform decision-making, and employing tools for effective team management and communication. The fourth course out of six in the [Google Project Management Certificate](https://grow.google/certificates/project-management/#?modal_active=none).
 
 ![program management cert progress](images/program_management_cert.png)
  <br>
