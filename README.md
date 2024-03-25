@@ -8,11 +8,13 @@ Some of my interests are data science, psychology, languages, economics, and sci
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhumano&size_weight=0.5&count_weight=0.5&compact&langs&langs_count=3)
 
 
-## Recent projects
+## Recent projects and learning activities
+
 
 | Project                                                  | Description                                                                                                                      | Tools                                                                                                   | Date       |
 |----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------|
 | [Google Analytics Capstone Project for Fitbit Data (in RStudio)](https://github.com/angelhumano/google_analytics_cert_capstone) | Analyzed smart fitness device data for Bellabeat App's marketing strategy. | R, RStudio, R Notebook, and R Markdown | October 2023|
+| SQL Practice Exercises                                            | A collection of SQL exercises that I found interesting and fun to work on.  | SQL           updated:March 2024  |
 
 ## Selected academic projects
 
