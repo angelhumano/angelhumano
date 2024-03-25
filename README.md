@@ -5,7 +5,7 @@ I am a passionate learner with a diverse range of interests and skills. Recently
 Some of my interests are data science, psychology, languages, economics, and science. In my free time, I enjoy exercising, hiking, reading books, listening to podcasts, using Duolingo, watching Crash Course, reading The Economist, investing, and traveling. My favorite foods are passion fruit, coconut water, and chocolate. Trilingual (Spanish, English, and Portuguese).
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhumano&size_weight=0.5&count_weight=0.5&compact&langs&hide=Dockerfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelhumano&size_weight=0.5&count_weight=0.5&compact&langs&langs_count=3)
 
 
 ## Recent projects
